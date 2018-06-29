@@ -1,0 +1,44 @@
+ody{
+	font-family: 'Roboto Condensed', sans-serif;	
+}
+
+a{
+	color:#7A1D78;
+}
+
+h1{
+	color:#7A1D78;
+	padding-top:45px;
+}
+
+.navbar-default {
+    background-color:#7A1D78;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.colour{
+	color:#7A1D78;
+}
+
+h5{
+	font-weight:bold
+}
+
+h4{
+	font-style:italic;
+}
+
+.padding{
+	padding-top: 5px;
+}
