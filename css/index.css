@@ -1,4 +1,4 @@
-ody{
+body{
 	font-family: 'Roboto Condensed', sans-serif;	
 }
 
@@ -8,7 +8,7 @@ a{
 
 h1{
 	color:#7A1D78;
-	padding-top:45px;
+	padding-top:10px;
 }
 
 .navbar-default {
@@ -29,6 +29,7 @@ h1{
 
 .colour{
 	color:#7A1D78;
+	padding-top: 20px;
 }
 
 h5{
@@ -37,8 +38,33 @@ h5{
 
 h4{
 	font-style:italic;
+	padding-top:20px;
 }
 
 .padding{
 	padding-top: 5px;
+}
+
+.instapadding{
+	padding-top:15px;
+}
+
+#padding{
+	padding-top:0px;
+	padding-bottom:15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+
+
+#instapadding{
+	padding-top:40px;
+	padding-bottom:0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
 }
